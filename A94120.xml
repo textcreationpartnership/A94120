@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Sunderland's letter to a friend in London Plainly discovering the designs of the Romish party, and others, for the subverting of the Protestant religion, and the laws of the kingdom. Licensed and entred, March. 23d. 1689.</title>
+            <author>Sunderland, Robert Spencer, Earl of, 1640-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94120</idno>
+            <idno type="STC">Wing S6177B</idno>
+            <idno type="STC">ESTC R225095</idno>
+            <idno type="EEBO-CITATION">99895841</idno>
+            <idno type="PROQUEST">99895841</idno>
+            <idno type="VID">153633</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153633)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2373:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earl of Sunderland's letter to a friend in London Plainly discovering the designs of the Romish party, and others, for the subverting of the Protestant religion, and the laws of the kingdom. Licensed and entred, March. 23d. 1689.</title>
+                  <author>Sunderland, Robert Spencer, Earl of, 1640-1702.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[[Edinburgh?] :</pubPlace>
+                  <date>re-printed in the year, 1689.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:153633:1"/>
+            <head>The EARL of Sunderland's Letter To a FRIEND in LONDON.</head>
+            <head type="sub">Plainly diſcovering the Deſigns of the Romiſh Party, and others, for the Subverting of the <hi>Proteſtant Re<g ref="char:EOLhyphen"/>ligion,</hi> and the Laws of the Kingdom.</head>
+            <opener>
+               <dateline>Licenſed and Entred, <date>
+                     <hi>March</hi> 23d. 1689.</date>
+               </dateline>
+            </opener>
+            <p>TO comply with what you deſire, I will explain ſome things which we talked of before I left <hi>England. I</hi> have been in a ſtation of great Noiſe, without power or Advantage whilſt I was in it, and to my Ruine now I am out of it. I know I cannot juſtifie my ſelf by ſaying, though it is true, that <hi>I</hi> thought to have prevented much miſchief; for when <hi>I</hi> found that I could not, I ought to have quitted the ſervice: Neither is it an excuſe that have got none of thoſe things which u<g ref="char:EOLhyphen"/>ſually engage Men in publick Affairs: My Quality is the ſame it ever was, and my Eſtate much worſe, even ruin'd, though <hi>I</hi> was born to a very conſiderable one, which I am a<g ref="char:EOLhyphen"/>ſhamed to have ſpoiled, though not ſo much as if I had encreaſed it by indirect means. But to go on to what you expect; The pretence to a Diſpenſing Power being not only the firſt thing, which was much diſliked ſince the Death of the late King, but the foundation of all the reſt, <hi>I</hi> ought to begin with that, which I had ſo little to do with, that I never heard it ſpoken of till the time of <hi>Monmouths</hi> Rebellion, that the King told ſome of the Coun<g ref="char:EOLhyphen"/>cil, of which <hi>I</hi> was one, that he was reſolved to give Employments to Roman Catho<g ref="char:EOLhyphen"/>licks, it being fit that all perſons ſhould ſerve who could be uſeful, and on whom he might depend. I think every body adviſed him againſt it, but with little effect, as was ſoon ſeen: that Party was ſo pleaſed with what the King had done, that they perſwaded him to mention it in his Speech at the next meeting of the Parliament, which he did, af<g ref="char:EOLhyphen"/>ter many Debates whether it was proper or not, in all which <hi>I</hi> oppoſed it as is known to very conſiderable Perſons, ſome of which were of another opinion; for I thought it would engage the King too far, and it did give ſuch offence to the Parliament, that it was thought neceſſary to prorogue it. After which the King fell immediately to the ſup<g ref="char:EOLhyphen"/>porting the Diſpenſing power, the moſt chimerical thing that was ever thought of, and muſt be ſo till the Government here is as abſolute as in <hi>Turkey,</hi> all power being included in that one. This is the ſenſe <hi>I</hi> ever had of it, and when I heard Lawyers defend it, <hi>I</hi> never changed my opinion or language; however it went on, moſt of the Judges being for it, and was the chief buſineſs of the State, till it was looked on as ſettled. Then the Eccleſiaſtical Court was ſet up, in which there being ſo many conſiderable Men of ſeveral-kinds, <hi>I</hi> could have but a ſmal part; and that after Lawyers had told the King it was le<g ref="char:EOLhyphen"/>gal, and nothing like the high Commiſſion Court, <hi>I</hi> can moſt truly ſay, and it is well known that for a good while <hi>I</hi> defended <hi>Magdalen</hi> College purely by care and induſtry,
+<pb n="2" facs="tcp:153633:2"/>and have hundreds of times begg'd of the King never to grant <hi>Mandates,</hi> or to change any thing in the regular courſe of Eccleſiaſtical Affairs, which he often thought reaſonable, and then by perpetual importunities was prevailed upon againſt his own ſenſe, which was the very Caſe of <hi>Magdalen</hi> College, as of ſome others.</p>
+            <p>Theſe things which I endeavoured, though without Succeſs, drew upon me the anger and ill-will of many about the King. The next thing to be Try'd, was to take off the Pe<g ref="char:EOLhyphen"/>nal Laws, and the Teſts, ſo many having promiſed their concurrence towards it, that his Majeſty thought it fecible; but he ſoon found it was not to be done by that Parliament, which made all the Catholicks deſire it might be diſſolv'd, which I was ſo much againſt, that they complained of me to the King, as a Man who ruined all his Deſigns, by oppoſing the only thing could carry him on; Liberty of Conſcience being the Foundation on which he was to build. That it was firſt offered at by the Lord Clifford, who by it had done the work, even in the Late King's Time, if it had not been for his weakneſs, and the weakneſs of his Miniſters; Yet I hindred the Diſſolution ſeveral weeks, by telling the King that the Parliament in Being would do every thing he could deſire, but the taking off the Penal Laws and the Teſts, or the allowing his Diſpenſing Power; and that any other Parliament, though ſuch a one could be had as was propoſed, would probably never Repeal thoſe Laws; and if they did, they would certainly never do any thing for the ſupport of the Government, whatever exigency it might be in. At that time the King of Spain was ſick, upon which I ſaid often to the King, that if ye ſhould dye, it would be impoſſible for his Majeſty to preſerve the Peace of Chriſtendom; that a War muſt be expected, and ſuch a one as would chiefly concern England; that if the Preſent Parliament continued, he might be ſure of all the help and Service he could wiſh; but in caſe he diſſolv'd it, he muſt give over all thoughts of Foreign Affairs, for no other would ever aſſiſt him, but on ſuch terms as would ruine the Monarchy; ſo that from abroad, or at home, he would be de<g ref="char:EOLhyphen"/>ſtroy'd, if the Parliament were Broken, and any Accident ſhould happen, of which there were many, to make the aid of his People neceſſary to him. This and much more I ſaid to him ſeveral times privately, and in the hearing of others; but being over powr'd, the Parliament was broke, the Cloſeting went on, and a new one was to be choſen, who was to get by Cloſeting, I need not ſay; but it was certainly not I, nor any of my Friends; many of them ſuffered, who I would fain have ſaved; and yet I muſt confeſſe with grief, that when the King was reſolved, and there was no remedy, I did not quit, as I ought to have done, but ſerved on in order to the calling another Parliament. In the midſt of all the preparations for it, and whilſt the Corporations were Regulating, the King thought fit to order his Declarations to be Read in all Churches, of which I moſt ſolemn<g ref="char:EOLhyphen"/>ly proteſt, I never heard one Word, till the King directed it in Council, that drew on the Petition of my Lord the Arch-Biſhop of <hi>Canterbury,</hi> and the other Lords the Biſhops, and their Proſecution, which <hi>I</hi> was ſo openly againſt, that by arguing continually to ſhew the Injuſtice and the Imprudence of it, <hi>I</hi> brought the fury of the <hi>Roman Catholicks</hi> upon me to ſuch a Degree, and ſo unanimouſly that <hi>I</hi> was juſt ſinking; and <hi>I</hi> wiſh that <hi>I</hi> had then ſunk, but whatever <hi>I</hi> did fooliſhly to preſerve my ſelf, <hi>I</hi> continued ſtill to be the Object of their hatred, and <hi>I</hi> reſolv'd to ſerve the Publick, as well as <hi>I</hi> could, which <hi>I</hi> am ſure moſt of the conſiderable Proteſtants then at Court can teſtifie; and ſo can one very Emi<g ref="char:EOLhyphen"/>nent Man of the Country, whom <hi>I</hi> would have perſwaded to come into buſineſs, which might have done, to have helped me to reſiſt the violence of thoſe in power; but he deſpair<g ref="char:EOLhyphen"/>ed of being able to do any good, &amp; therefore would not engage. Some time after came the firſt news of the Prince's deſigns, which were not then looked on as they have proved, no body foreſeeing the Miracles he has done by his wonderful Prudence, Conduct, and Courage; for the greateſt thing which has been undertaken theſe thouſand years, or perhaps ever, could not be affected without Vertues hardly to be imagined till ſeen nearer hand. Upon the firſt thought of his coming <hi>I</hi> laid hold of the opportunity to preſs the King to do ſeveral things which <hi>I</hi> would have had done ſooner; the chief of which were, to reſtore <hi>Magdalen</hi> College, and all other Eccleſiaſtical Preferments, which had been diverted from what they were intended for, to take off my Lord Biſhop of <hi>London's</hi> Suſpenſion, to put the Counties into the hands they were in ſome time before, to annul the Eccleſiaſtical Court, and to reſtore entirely all the Corporations of <hi>England:</hi> Theſe things were done effectually, by the help of ſome about the King; and it was then thought <hi>I</hi> had deſtroyed my ſelf, by en<g ref="char:EOLhyphen"/>raging again the whole Roman Catholick Party, to ſuch a height as had not been ſeen;
+<pb n="3" facs="tcp:153633:2"/>they diſperſed Libels of me every day, told the King that <hi>I</hi> betrayed him, that I ruined him, perſwading him to make ſuch ſhameful Condeſcentions; but moſt of all by hindring the ſecuring the chief of the diſſaffected Nobility and Gentry, which was propoſed as a certain way to break all the Prince's Meaſures; and by adviſing his Majeſty to call a free Praliament, and to depend upon that, rather than upon Foreign aſſiſtance. It is true, <hi>I</hi> did give him thoſe Councils which were called weak to the laſt mo<g ref="char:EOLhyphen"/>ment he ſuffered me in his Service; then <hi>I</hi> was accuſed of holding Correſpon<g ref="char:EOLhyphen"/>dence with the Prince, and it was every where ſaid amongſt them, that no bet<g ref="char:EOLhyphen"/>ter could be expected from a man ſo related as <hi>I</hi> was to the <hi>Bedford &amp; Liceſter</hi> families, &amp; ſo allied to Duke <hi>Hamilton,</hi> and the Marqueſs of <hi>Halifax.</hi> After this Accuſations of high Treaſon were brought againſt me, which with ſome other Reaſons relating to Affairs a<g ref="char:EOLhyphen"/>broad, drew the King's Diſpleaſure upon me, ſo as to turn me out of all without any Conſideration, and yet I thought I eſcaped well, expecting nothing leſs than the loſs of my Head, as my Lord <hi>Middleton</hi> can tell, and I believe none about the Court thought otherwiſe; nor had it been otherwiſe, if my Diſgrace had been deferred a day longer; all things being prepared for it, I was put out the 27th of <hi>October,</hi> the Roman Catho<g ref="char:EOLhyphen"/>licks having been two months working the King up to it without Intermiſſion, beſides the ſeveral Attacks they had made upon me before, and the unuſual Aſſiſtance, they obtained to do what they thought ſo neceſſary for the carrying on their Affairs, of which they ne<g ref="char:EOLhyphen"/>ver had greater hope than at that time, as may be remembred by any who were then in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> But you deſired I would ſay ſomething to you of <hi>Ireland,</hi> which I will do in very few words, but exactly true.</p>
+            <p>My Lord <hi>Tyrconnel</hi> has been ſo abſolute there, that I never had the Credit to make an Enſign, or keep one in, nor to preſerve ſome of my Friends, for whom I was much concerned from the laſt Oppreſſion and injuſtice, though I endeavoured it to the utmoſt of my Power; but yet with Care and Diligence, being upon the place, and he abſent, I diverted the calling a Parliament there, which was deſigned to alter the Acts of Settlement. Chief Juſtice <hi>Nugent,</hi> and Baron <hi>Rice,</hi> were ſent over with a draught of an Act for that purpoſe, furniſhed with all the preſſing Arguments could be thought on to perſwade the King, and I was offered forty thouſand pounds for my Concurrence, which I told to the King, and ſhewed him at the ſame time the injuſtice of what was propoſed to him, and the prejudice it would be to that country, with ſo good ſucceſs, that he reſolved not to think of it that year, and perhaps never: This I was helped in by ſome Friends, particularly my Lord <hi>Godolphin,</hi> who knows it to be true, and ſo do the Judges before named, and ſeveral others.</p>
+            <p>
+               <hi>I</hi> cannot omit ſaying ſomething of FRANCE, there having been ſo much talk of a <hi>League</hi> between the two Kings. <hi>I</hi> do proteſt I never knew of any; and if there were ſuch thing, it was carried on by other ſort of men laſt Summer. Indeed French Ships were offered to joyn with our Fleet, and they were refuſed; ſince the noiſe of the Prin<g ref="char:EOLhyphen"/>ce's Deſign more ſhips were offered, and it was agreed how they ſhould be commanded if ever deſired. <hi>I</hi> oppoſed to death the accepting of them, as well as any aſſiſtence of men, and can ſay moſt truly, that I was the principal means of hindering both, by the help of ſome Lords, with whom I conſulted every day, and they with me; to prevent what we thought would be of great prejudice, if not ruinous to the Nation. If the Report is true, of Men, Ships, and Money, intended lately for <hi>England</hi> out of France, it was agreed upon ſince <hi>I</hi> was out of buſineſs, or without my knowledge; If it had been otherwiſe, I believe no body thinks my Diſgrace would have happened: My greateſt Miſfortune has been to be thought the Promoter of thoſe things <hi>I</hi> oppoſed and detaſted, whilſt ſome <hi>I</hi> could name have been the Inventors &amp; Contrivers of what they have had the art to ſay upon others; and <hi>I</hi> was often fooliſhly Willing to bear what my Maſter would have done, though <hi>I</hi> uſed all poſſible Endeavours againſt it. <hi>I</hi> lie under many other Miſfortunes and Afflictions extream heavy, but <hi>I</hi> hope they have brought me to reflect on the occaſion of them, the looſe, negligent, unthinking Life <hi>I</hi> have hitherto led, having been perpe<g ref="char:EOLhyphen"/>tually hurried away from all good Thoughts by Pleaſures, Idleneſs, the Vanity of the Court, or by buſineſs: <hi>I</hi> hope, <hi>I</hi> ſay, that <hi>I</hi> ſhall overcome all the Diſorders my former Life had brought upon me, and that <hi>I</hi> ſhall ſpend the remaining part of it in begging of almighty God, that he will pleaſe either to put an end to my Sufferings, or to give me ſtrength to bear them; one of which he will certainly grant to ſuch as relie on him, which
+<pb n="4" facs="tcp:153633:3" rendition="simple:additions"/>
+               <hi>I</hi> hope <hi>I</hi> do, with the ſubmiſſion that becomes a good Chriſtian. <hi>I</hi> would enlarge on this Subject, but that <hi>I</hi> fear you might think ſomething elſe to be the reaſon of it, beſides a true ſenſe of my faults, and that obliges me to reſtrain my ſelf at preſent, <hi>I</hi> believe you will repent in having engaged me to give you this Account, but <hi>I</hi> cannot the doing what you deſire of me.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Re-printed in the Year, 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
